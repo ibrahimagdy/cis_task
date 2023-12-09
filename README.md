@@ -1,16 +1,4 @@
 # cis_task
 
-A new Flutter project.
+<img width="330" alt="cis_task" src="https://github.com/ibrahimagdy/cis_task/assets/96210854/f6487555-5f59-4718-9564-faaae8180b59">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
